@@ -1,0 +1,11 @@
+https://download.docker.com/linux/ubuntu/dists/jammy/pool/stable/amd64/containerd.io_1.6.18-1_amd64.deb
+https://download.docker.com/linux/ubuntu/dists/jammy/pool/stable/amd64/docker-buildx-plugin_0.10.2-1%7eubuntu.22.04%7ejammy_amd64.deb
+https://download.docker.com/linux/ubuntu/dists/jammy/pool/stable/amd64/docker-ce-cli_23.0.1-1%7eubuntu.22.04%7ejammy_amd64.deb
+https://download.docker.com/linux/ubuntu/dists/jammy/pool/stable/amd64/docker-ce_23.0.1-1%7eubuntu.22.04%7ejammy_amd64.deb
+https://download.docker.com/linux/ubuntu/dists/jammy/pool/stable/amd64/docker-ce-rootless-extras_23.0.1-1%7eubuntu.22.04%7ejammy_amd64.deb
+https://download.docker.com/linux/ubuntu/dists/jammy/pool/stable/amd64/docker-compose-plugin_2.16.0-1%7eubuntu.22.04%7ejammy_amd64.deb
+https://download.docker.com/linux/ubuntu/dists/jammy/pool/stable/amd64/docker-scan-plugin_0.23.0%7eubuntu-jammy_amd64.deb
+http://ir.archive.ubuntu.com/ubuntu/pool/universe/p/pigz/pigz_2.6-1_amd64.deb
+http://ir.archive.ubuntu.com/ubuntu/pool/main/libt/libtool/libltdl7_2.4.6-15build2_amd64.deb
+http://ir.archive.ubuntu.com/ubuntu/pool/main/libs/libslirp/libslirp0_4.6.1-1build1_amd64.deb
+http://ir.archive.ubuntu.com/ubuntu/pool/universe/s/slirp4netns/slirp4netns_1.0.1-2_amd64.deb
